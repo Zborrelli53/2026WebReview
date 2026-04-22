@@ -31,7 +31,7 @@ Are tags that do not have closing tags, also known as Void Elements
 What does <!DOCTYPE html> do?
 This tells the browser that the file is an HTML file
 
-Every HTML file has the same SKELETON (Boilerplate, template) structure (in an HTML file on mac, CMND + SHIFT + ! automatically makes the skeleton):
+Every HTML file has the same SKELETON (Boilerplate, template) structure (in an HTML file, shift + ! + tab creates the skeleton automatically):
 
 <!DOCTYPE html>
 <html>
