@@ -186,4 +186,50 @@ CSS Custom Properties (Variables)
 Css Variables let you store values once and reuse them everywhere - great for color schemes!
 
 Why use variables?
-Change a oclor in ONE place, updates everywhere
+ -Change a oclor in ONE place, updates everywhere
+ -SLLOCES brand colors stay consistent
+ -Easy to read: var(--color-navy) vs #003366
+ -profession industry practice
+ -Your starter file already has the variables - just fill them in!
+
+CSS Selectors 
+
+Selectors tell CSS WHICH element(s) to style. CHoose the right selector for the job:
+
+Element - Targets ALL h1 tags on the page
+Class . - Targets elements with the class='card'
+ID # - Targets ONE elemet with id='hero'
+
+The CSS Box Model
+
+Every HTML element is a box. The Box Model controls spacing inside and around each element.
+
+Typography Properties
+
+Typography controls how text looks. These properties are used throughout your portfolio.
+
+Types of Typography
+    font-family
+    font-weight
+    text-align
+    text-decoration
+    font-size
+    color
+    line-height
+    text-transform
+
+Colors & Backgrounds
+
+CSS offers multiple ways to specify color and several background properties for rich visuals
+
+Flexbox - The Layout Tool
+
+Flexbox makes arranging items in a row ro column easy. Your nav and footer both use Flexbox.
+
+Hero Image Seciton
+
+A hero section creates a bold full-width banner with a background image and overlay for text contrast
+
+Footer Navigation with Flexbox
+
+The portfolio footer uses Flexbox to create a multi0column layout with navigation links and copyright
