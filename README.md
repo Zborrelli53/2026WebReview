@@ -150,3 +150,40 @@ Content Semantics Elements:
 <mark> - highlighted text
 <details> / <summary> - expand and collapse more details
 <div> - non-semantic container
+
+
+# CSS
+
+What does CSS stand for?
+    Cascading Style Sheets
+
+Which HTML element links an external stylesheet?
+    the <link> element
+
+In CSS, what does a # selector target?
+    the # selector targets id's
+
+What property sets text color in CSS?
+    color
+
+Name the Four layers of the CSS Box Model:
+    Content
+    Padding
+    Border
+    Margin
+
+
+What is CSS? - External Stylesheets
+
+CSS (cascading Style Sheets) controls the visual presentation of HTML - colors, fonts, spacing, layout and more.
+
+Inline CSS - Avoid - hard to maintain
+Internal CSS - OK for quick tests
+External CSS - Best practice - always use!
+
+CSS Custom Properties (Variables)
+
+Css Variables let you store values once and reuse them everywhere - great for color schemes!
+
+Why use variables?
+Change a oclor in ONE place, updates everywhere
